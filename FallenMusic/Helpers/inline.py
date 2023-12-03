@@ -40,7 +40,7 @@ buttons = InlineKeyboardMarkup(
             ],
             [
             InlineKeyboardButton(text="« ᘜᖇ᥆υρ ᥉᥆υᖇᥴᥱ »", url=f"http://t.me/Andromeda_3"),
-            InlineKeyboardButton(text="« ᥴ𝗁ᥲᥒᥒᥱᥣ ᥉᥆υᖇᥴᥱ »", url=f"https://t.me/Mazenyasser_6"),
+            InlineKeyboardButton(text="« ᥴ𝗁ᥲᥒᥒᥱᥣ ᥉᥆υᖇᥴᥱ »", url=f"https://t.me/Andromeda_6"),
             ],
             [
             InlineKeyboardButton(text="« ժᥱ᥎ Ⲙazėn »", url=f"https://t.me/M_LR1"),
