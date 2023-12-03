@@ -43,7 +43,7 @@ buttons = InlineKeyboardMarkup(
             InlineKeyboardButton(text="« ᥴ𝗁ᥲᥒᥒᥱᥣ ᥉᥆υᖇᥴᥱ »", url=f"https://t.me/Mazenyasser_6"),
             ],
             [
-            InlineKeyboardButton(text="« ժᥱ᥎ Ⲙazėn »", url=f"https://t.me/Mr_Eirux"),
+            InlineKeyboardButton(text="« ժᥱ᥎ Ⲙazėn »", url=f"https://t.me/M_LR1"),
             ],
             [
             InlineKeyboardButton(text="« ᥴᥣ᥆᥉ᥱ »", callback_data="close"),
@@ -68,7 +68,7 @@ pm_buttons = [
         InlineKeyboardButton(
             text="• مطوࢪ السورس •", url="https://t.me/P_O28"
         ),
-        InlineKeyboardButton(text="• مالك البوت •", user_id=config.OWNER_ID),
+        InlineKeyboardButton(text="• مالك السوࢪس •", user_id=config.OWNER_ID),
     ],
 ]
 
@@ -88,7 +88,7 @@ gp_buttons = [
         InlineKeyboardButton(
             text="• مطوࢪ السورس •", url="https://t.me/P_O28"
         ),
-        InlineKeyboardButton(text="• مالك البوت •", user_id=config.OWNER_ID),
+        InlineKeyboardButton(text="• مالك السوࢪس •", user_id=config.OWNER_ID),
     ],
 ]
 
@@ -101,7 +101,7 @@ helpmenu = [
         )
     ],
     [
-        InlineKeyboardButton(text="• اوامࢪ المطور •", callback_data="fallen_cb sudo"),
+        InlineKeyboardButton(text="• اوامࢪ المطوࢪ •", callback_data="fallen_cb sudo"),
         InlineKeyboardButton(text="• اوامࢪ المالك •", callback_data="fallen_cb owner"),
     ],
     [
