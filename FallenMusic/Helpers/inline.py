@@ -49,7 +49,7 @@ buttons = InlineKeyboardMarkup(
             InlineKeyboardButton(text="• ᥴ𝗁ᥲᥒᥒᥱᥣ ᥉᥆υᖇᥴᥱ •", url=f"https://t.me/Mr_Eirux"),
             ],
             [
-            InlineKeyboardButton(text="•𓏺 ⊀𝟑𝟑 𓏺 ժᥱ᥎ Mazen 𓏺 ⊀𝟑𝟑 𓏺•", url=f"https://t.me/M_LR1"),
+            InlineKeyboardButton(text="• 𓏺 ⊀𝟑𝟑 𓏺 ժᥱ᥎ Mazen 𓏺 ⊀𝟑𝟑 𓏺 •", url=f"https://t.me/M_LR1"),
             ],
             [
             InlineKeyboardButton(text="• ᥴᥣ᥆᥉ᥱ •", callback_data="close"),
