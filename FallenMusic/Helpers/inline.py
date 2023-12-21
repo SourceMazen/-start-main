@@ -75,12 +75,14 @@ pm_buttons = [
             text="• مطور السورس •", url="https://t.me/P_O28"
         ),
         InlineKeyboardButton(text="• مالك البوت •", user_id=config.OWNER_ID),
-     ],
-     [
-     InlineKeyboardButton(
-            text="•𓏺 ⊀𝟑𝟑 𓏺 ժᥱ᥎ Mazen 𓏺 ⊀𝟑𝟑 𓏺•", url="https://t.me/M_LR1"
-     ],
-]
+    ],
+    [
+    InlineKeyboardButton(
+            text="•𓏺 ⊀𝟑𝟑 𓏺 ժᥱ᥎ Mazen 𓏺 ⊀𝟑𝟑 𓏺•", url="https://t.me/Mr_Eirux"
+        ),
+        ],
+        ]
+    
 
 
 gp_buttons = [
