@@ -78,7 +78,7 @@ pm_buttons = [
     ],
     [
     InlineKeyboardButton(
-            text="•𓏺 ⊀𝟑𝟑 𓏺 ժᥱ᥎ Mazen 𓏺 ⊀𝟑𝟑 𓏺•", url="https://t.me/Mr_Eirux"
+            text="•𓏺 ⊀𝟑𝟑 𓏺 ժᥱ᥎ Mazen 𓏺 ⊀𝟑𝟑 𓏺•", url="https://t.me/M_LR1"
         ),
         ],
         ]
